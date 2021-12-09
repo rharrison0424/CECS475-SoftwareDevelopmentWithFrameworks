@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ix4E5yZOBECd2e9zNIQkM4TKqZEZfF01uCp6QHXLSvDj7/HEOZw9pXBElFS7XXTS2wZLEkle6z7auTJiVXMcaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lllf5\\OneDrive\\Documents\\CECS475\\Projects\\Project3\\Project3-master\\src\\Cecs475.BoardGames.Model\\Cecs475.BoardGames.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lllf5\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lllf5\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

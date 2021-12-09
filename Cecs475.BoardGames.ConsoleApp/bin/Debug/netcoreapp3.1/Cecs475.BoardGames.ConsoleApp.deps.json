@@ -1,0 +1,109 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cecs475.BoardGames.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Cecs475.BoardGames.Chess.Model": "1.0.0",
+          "Cecs475.BoardGames.Chess.View": "1.0.0",
+          "Cecs475.BoardGames.Model": "1.0.0",
+          "Cecs475.BoardGames.Othello.Model": "1.0.0",
+          "Cecs475.BoardGames.Othello.View": "1.0.0",
+          "Cecs475.BoardGames.View": "1.0.0"
+        },
+        "runtime": {
+          "Cecs475.BoardGames.ConsoleApp.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Chess.Model/1.0.0": {
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "runtime": {
+          "Cecs475.BoardGames.Chess.Model.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Chess.View/1.0.0": {
+        "dependencies": {
+          "Cecs475.BoardGames.Chess.Model": "1.0.0",
+          "Cecs475.BoardGames.View": "1.0.0"
+        },
+        "runtime": {
+          "Cecs475.BoardGames.Chess.View.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Model/1.0.0": {
+        "runtime": {
+          "Cecs475.BoardGames.Model.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Othello.Model/1.0.0": {
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "runtime": {
+          "Cecs475.BoardGames.Othello.Model.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.Othello.View/1.0.0": {
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0",
+          "Cecs475.BoardGames.Othello.Model": "1.0.0",
+          "Cecs475.BoardGames.View": "1.0.0"
+        },
+        "runtime": {
+          "Cecs475.BoardGames.Othello.View.dll": {}
+        }
+      },
+      "Cecs475.BoardGames.View/1.0.0": {
+        "dependencies": {
+          "Cecs475.BoardGames.Model": "1.0.0"
+        },
+        "runtime": {
+          "Cecs475.BoardGames.View.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cecs475.BoardGames.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecs475.BoardGames.Chess.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecs475.BoardGames.Chess.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecs475.BoardGames.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecs475.BoardGames.Othello.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecs475.BoardGames.Othello.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cecs475.BoardGames.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

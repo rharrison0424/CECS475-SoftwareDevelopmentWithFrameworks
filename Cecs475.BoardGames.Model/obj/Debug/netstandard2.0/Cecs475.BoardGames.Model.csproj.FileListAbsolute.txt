@@ -1,0 +1,8 @@
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.deps.json
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\bin\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfoInputs.cache
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.AssemblyInfo.cs
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.csproj.CoreCompileInputs.cache
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.dll
+C:\Users\lllf5\OneDrive\Documents\CECS 475\Projects\Project3\Project3-master\src\Cecs475.BoardGames.Model\obj\Debug\netstandard2.0\Cecs475.BoardGames.Model.pdb
